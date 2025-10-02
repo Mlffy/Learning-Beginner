@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <tile>Your Name - CV</title>
+</head>
+<body>
+
+<header>
+    <h1>Miffy Bruna<h1>
+    <p><strong>Junior Frontend Developer</strong></p>
+
+    <address>
+    123 Street Miffy<br />
+    Miffy Town, Bunny, 12345<br />
+    123 321 123 321<br />
+    <a href="mailto:byunbyun@byun.com">byunbyun@byun</a>
+    </address>
+
+    <hr />
+</header>
+
+<main>
+
+    <section aria-labelledby="skills"> 
+        <h2 id="skills">Skills</h2>
+        <p>
+         HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation
+        </p>
+    </section>
+
+    <section aria-labelledby="education">
+    <h2 id="education">Education</h2>
+
+    <article>
+        <h3>
+            <span>Miffy Academy</span>,
+            <span>Miffy Town</span> - <span>Doctorate's</span>
+        </h3>
+        <p>
+            <time datetime="2020-22">Month 2020</time> to <time datetime="2022-24">Month 2024</time>
+        </p>
+        <p>List of Fun things I did in academy!</p>
+    <article>
+</section>
+
+<section aria-labelledby="experience">
+    <h2 id="experience">Experience</h2>
+
+    <article>
+        <h3>Miffy Corporate, Miffyopolis - CEO</h3>
+        <p>
+            <time datetime="2025-2030">Month 2025</time> to <time datetime="2030-2035"> 
+        </p>
+        <ul>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+        </ul>
+        <p><strong>Skills:</strong> List of Skills I gained; Alot!</p>
+    </article>
+
+    <article>
+        <h3>Miffy Co., Miffyopolis - Miffy King</h3>
+        <p>
+            <time datetime="20xx-xx">Month 20xx</time> to <time datetime="20xx-xx">Month 20xx</time>
+        </p>
+        <ul>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+        </ul>
+        <p><strong>Skills:</strong> List of Skills I gained from the company</p>
+    <article>
+</section>
+
+<section aria-labelledby="internet">
+    <h2 id="internet">Across the Internet</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/your-handle">LinkedIn</a></li>
+        <li><a href="https://www.github.com/in/your-handle">Github</a></li>
+        <li><a href="https://www.miffy.com/in/your-handle">Portfolio</a></li>
+    </ul>
+</section>
+
+</main>
+
+<footer>
+    <hr />
+    <p><small>References available upon request. </small></p>
+</footer>
+
+</body>
+</html>
